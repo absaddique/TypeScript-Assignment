@@ -1,0 +1,1 @@
+console.log(`Quaid-e-Azam said,"“Without education it is complete darkness and with education it is light. Education is a matter of life and death to our nation.".`);
